@@ -64,6 +64,18 @@ What I care about:
 
 ---
 
+### Featured Projects
+
+**[EventHorizon](https://github.com/PriyankaSDaida/Eventmanagemant)** — A responsive event management platform with AI-assisted event creation. Built with React, TypeScript, Vite, and Tailwind CSS, integrating Gemini AI to auto-generate agendas, marketing copy, and tags from rough notes. Includes real-time form validation, filtering, and Playwright E2E test coverage.
+
+**[Gemini Magic Writer](https://github.com/PriyankaSDaida/Gemini-Magic-Writer)** — A distraction-free, AI-powered writing app that integrates Gemini models directly into the editing workflow, with inline rephrasing, proactive background suggestions, and version history. Built with React, TypeScript, and the Google GenAI SDK.
+
+**[OmniPost](https://github.com/PriyankaSDaida/OmniPost)** — A social media content studio that turns a single idea or article into platform-tailored posts (LinkedIn, X, Instagram) with AI-generated images, tone customization, and a built-in scheduler. Built with React 19, TypeScript, and Gemini + Imagen.
+
+**[InsightForge AI](https://github.com/PriyankaSDaida/insightforge-ai)** — A production-minded analytics dashboard portfolio project featuring executive KPI cards, a deterministic natural-language "ask your data" interface, and full test/CI coverage. Built with Next.js 15, React 19, TypeScript, TanStack Query, and Recharts; includes Docker, Playwright, and GitHub Actions.
+
+---
+
 ### Focus Areas
 
 - Component-driven development — reusable, composable building blocks
