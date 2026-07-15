@@ -1,90 +1,139 @@
-<!-- Header -->
+<!-- GitHub Profile README for Priyanka S Daida -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,100:16213e&text=Priyanka%20S&fontColor=ffffff&fontSize=42&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%7C%20Next.js%20%7C%20TypeScript&descSize=16&descAlignY=65" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F00FF,100:00C9FF&text=Priyanka%20S%20Daida&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Frontend%20Engineer%20%E2%80%A2%20Building%20Scalable%2C%20Intelligent%20Web%20Experiences&descSize=16&descAlignY=58" alt="Priyanka S Daida — Frontend Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F8EF7&center=true&vCenter=true&width=650&lines=Building+scalable+React+%2F+Next.js+applications;Designing+reusable+component+systems;Focused+on+performance+and+developer+experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=00BFFF&center=true&vCenter=true&width=720&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Design+Systems+%E2%80%A2+Performance+%E2%80%A2+Architecture;Turning+complex+problems+into+simple+experiences;Exploring+the+future+of+AI-powered+interfaces" alt="Frontend engineering focus areas" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/priyankasreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@priyankadaida"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="mailto:priyankasudhakarreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/priyankasreddy"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@priyankadaida"><img src="https://img.shields.io/badge/Medium-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:priyankasudhakarreddy@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## 👋 About Me
+
+I'm a **Frontend Engineer** who turns complex product requirements into fast, accessible, and maintainable web experiences.
+
+My work sits at the intersection of **frontend architecture, design systems, performance, and developer experience**. I build reusable foundations that help teams ship consistent, high-quality products with confidence.
+
+I’m currently exploring how **generative AI, design-to-code workflows, and intelligent UI automation** can reshape the way modern digital products are designed and built.
+
+## 🚀 Latest Projects
+
+### 📊 [InsightForge AI](https://github.com/PriyankaSDaida/insightforge-ai)
+
+> A production-minded analytics experience that makes complex business data easier to understand and explore.
+
+- Executive KPI cards and interactive data visualizations
+- Deterministic natural-language **“ask your data”** experience
+- Automated end-to-end testing, Docker support, and continuous integration
+- Built with **Next.js 15, React 19, TypeScript, TanStack Query, and Recharts**
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyankaSDaida/insightforge-ai)
+
+---
+
+### 📣 [OmniPost](https://github.com/PriyankaSDaida/OmniPost)
+
+> An AI-powered content studio that transforms one idea into tailored content for multiple social platforms.
+
+- Generates platform-specific posts for **LinkedIn, X, and Instagram**
+- Supports tone customization and AI-generated imagery
+- Includes an integrated content scheduling workflow
+- Built with **React 19, TypeScript, Gemini, and Imagen**
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyankaSDaida/OmniPost)
+
+---
+
+### ✨ [Gemini Magic Writer](https://github.com/PriyankaSDaida/Gemini-Magic-Writer)
+
+> A distraction-free writing application that brings intelligent assistance directly into the editing workflow.
+
+- Inline AI-powered rephrasing and writing assistance
+- Proactive background suggestions without interrupting the user
+- Version history for safely exploring and restoring edits
+- Built with **React, TypeScript, and the Google GenAI SDK**
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyankaSDaida/Gemini-Magic-Writer)
+
+---
+
+### 🌌 [EventHorizon](https://github.com/PriyankaSDaida/Eventmanagemant)
+
+> An intelligent event management platform that turns rough ideas into polished, structured event plans.
+
+- Uses Gemini AI to generate agendas, marketing copy, and relevant tags
+- Responsive event creation, editing, filtering, and management workflows
+- Real-time form validation and Playwright end-to-end test coverage
+- Built with **React, TypeScript, Vite, Tailwind CSS, and Gemini AI**
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyankaSDaida/Eventmanagemant)
+
+## ⚡ Engineering Strengths
+
+- 🧩 Scalable component architecture and reusable design systems
+- 🚀 Web performance and Core Web Vitals optimization
+- 🎨 Strong collaboration between design and engineering
+- 🧪 Reliable applications backed by automated testing
+- 🌍 Responsive, multi-tenant, and localization-ready interfaces
+- 🤝 Technical leadership through mentoring, standards, and code reviews
+
+## 🛠️ Technology Toolkit
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css" alt="Frontend technologies" />
+</p>
+
+### Backend, Cloud & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,aws,gcp,docker,vercel,git,github" alt="Backend, cloud, and development tools" />
+</p>
+
+### Design & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,jest" alt="Design and testing tools" />
+</p>
+
+## 🌱 What I’m Exploring
+
+- AI-powered interfaces and human-centered AI experiences
+- Design-to-code pipelines and UI automation
+- Scalable frontend architecture for growing products
+- Better developer tooling and engineering workflows
+- Writing about React, Next.js, and frontend architecture
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyankaSDaida&show_icons=true&theme=tokyonight&hide_border=true" alt="Priyanka's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaSDaida&layout=compact&theme=tokyonight&hide_border=true" alt="Priyanka's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaSDaida&theme=tokyonight&hide_border=true" alt="Priyanka's GitHub contribution streak" />
 </p>
 
 ---
 
-### About
+<p align="center">
+  <i>“Great interfaces feel simple because thoughtful engineering handles the complexity.”</i>
+</p>
 
-I'm a Frontend Engineer focused on building fast, scalable, and cleanly architected web applications with React and Next.js. I specialize in design systems, component architecture, and performance optimization, with growing experience in AI-assisted development workflows and design-to-code pipelines.
+<p align="center">
+  <b>Let’s build something meaningful.</b>
+</p>
 
-What I care about:
-
-- Consistent UX across large, multi-team products
-- Developer experience — clean abstractions, predictable patterns
-- Performance: Core Web Vitals, code splitting, lazy loading, caching
-- Mentoring engineers and driving architecture decisions
-
----
-
-### Currently
-
-- 🔭 Exploring AI + frontend tooling, design-to-code pipelines, and UI automation
-- ✍️ Writing about React, Next.js, Tailwind, and frontend architecture
-- 💬 Happy to talk component design, architecture decisions, and frontend interviews
-- 📫 priyankasudhakarreddy@gmail.com
-
----
-
-### Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=graphql&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-1a73e8?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Design & Collaboration**
-![Figma](https://img.shields.io/badge/Figma-ff7262?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
----
-
-### Featured Projects
-
-**[EventHorizon](https://github.com/PriyankaSDaida/Eventmanagemant)** — A responsive event management platform with AI-assisted event creation. Built with React, TypeScript, Vite, and Tailwind CSS, integrating Gemini AI to auto-generate agendas, marketing copy, and tags from rough notes. Includes real-time form validation, filtering, and Playwright E2E test coverage.
-
-**[Gemini Magic Writer](https://github.com/PriyankaSDaida/Gemini-Magic-Writer)** — A distraction-free, AI-powered writing app that integrates Gemini models directly into the editing workflow, with inline rephrasing, proactive background suggestions, and version history. Built with React, TypeScript, and the Google GenAI SDK.
-
-**[OmniPost](https://github.com/PriyankaSDaida/OmniPost)** — A social media content studio that turns a single idea or article into platform-tailored posts (LinkedIn, X, Instagram) with AI-generated images, tone customization, and a built-in scheduler. Built with React 19, TypeScript, and Gemini + Imagen.
-
-**[InsightForge AI](https://github.com/PriyankaSDaida/insightforge-ai)** — A production-minded analytics dashboard portfolio project featuring executive KPI cards, a deterministic natural-language "ask your data" interface, and full test/CI coverage. Built with Next.js 15, React 19, TypeScript, TanStack Query, and Recharts; includes Docker, Playwright, and GitHub Actions.
-
----
-
-### Focus Areas
-
-- Component-driven development — reusable, composable building blocks
-- Design systems and theming at scale
-- Performance optimization — code splitting, lazy loading, caching
-- Multi-tenant, multi-locale UI architecture
-- Frontend testing — Jest, React Testing Library, Cypress
-- Team leadership and mentoring — code review, standards, architecture
-
----
-
-<p align="center"><i>"Good UI feels simple. Great UI hides the complexity behind good engineering."</i></p>
+<p align="center">
+  <a href="mailto:priyankasudhakarreddy@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/priyankasreddy">LinkedIn</a> •
+  <a href="https://medium.com/@priyankadaida">Medium</a>
+</p>
